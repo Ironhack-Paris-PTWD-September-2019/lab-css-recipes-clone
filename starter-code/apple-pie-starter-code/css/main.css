@@ -13,13 +13,11 @@ h1 {
 }
 
 .banner {
-    position: relative;
     text-align: center;
-    padding-bottom: 50px;
     width: 100vmax;
     height: 800px;
     background-image: url("../images/apple-pie.jpg");
-    background-size: cover;background-size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 

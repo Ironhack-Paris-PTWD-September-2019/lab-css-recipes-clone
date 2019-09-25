@@ -13,14 +13,13 @@ h1 {
   padding-bottom: 50px;
 }
 
-#soup-img {
-  width: 100vmax;
-}
-
 .banner {
-  position: relative;
   text-align: center;
-  padding-bottom: 50px;
+  width: 100vmax;
+  height: 800px;
+  background-image: url("../images/soup.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .directions-list {
@@ -52,11 +51,11 @@ h1 {
 }
 .recipe-name {
   color: white;
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 300;
-  position: absolute;
-  top: 25%;
-  left: 15%;
+  line-height: 800px;
+  margin: 0;
+  
 }
 .recipe-img, .cooking-img {
   text-align: center;
