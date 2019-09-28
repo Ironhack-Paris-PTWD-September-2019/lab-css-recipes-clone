@@ -1,0 +1,16 @@
+/* un compagnon de promo m'a accompagné pour bien connecter le css et le html 
+avant ca ne marchait pas du coup je n'avancais pas car je ne voyais pas les modif*/
+
+header{
+background-image: src="Users/emmanuelleblancardi/code/LABS/module1/lab-css-recipes-clone/starter-code/apple-pie-starter-code/images/apple-pie.jpg";
+}
+ 
+* {
+  font-family: monospace;
+}
+
+.image {
+  align-items: center;
+}
+
+/* je ne comprends pas pourquoi ca ne marche pas*/
